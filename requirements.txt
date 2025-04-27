@@ -1,1 +1,6 @@
 pytesseract
+cv2
+numpy
+g4f
+g4f.client
+gtts
