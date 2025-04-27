@@ -4,3 +4,4 @@ numpy
 g4f
 g4f.client
 gtts
+pip3
